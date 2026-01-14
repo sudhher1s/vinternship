@@ -1,6 +1,7 @@
 ---
 layout: page
-title: HP
+title: Health Points
+parent: Help
 permalink: /hp/
 ---
 
@@ -10,7 +11,7 @@ permalink: /hp/
   }
 </style>
 
-## Health Points
+<!-- ## Health Points -->
 
 Health Points(HP) are a simple and human-centred way to guide learner behaviour in an online learning environment. Instead of focusing only on content completion, HP reflects *how* a learner participates in the system. When students act in alignment with the learning culture and community rules, they earn Health Points. When they act against the system or show low commitment, a deduction is reflected. Over time, Health Points act as a behavioural mirror, encouraging self-regulation, accountability, and consistency.
 
